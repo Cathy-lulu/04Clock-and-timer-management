@@ -1,7 +1,7 @@
 #Table of Contents
 
 [Clock Management](#clock-management)
-  * [Clock Tick(OS Tick)](#clock-tick(os-tick))
+  * [Clock Tick(OS Tick)](#clock-tickos-tick)
     * [Clock Tick Implementation](#clock-tick-implementation)
     * [Obtain Clock Tick](#obtain-clock-tick)
   * [Timer Management](#timer-management)
